@@ -1,0 +1,25 @@
+question,output,timestamp
+what projects does he have,"Pritam Mohanta has the following projects:
+
+1. CF Performance Mirror — Browser Extension
+   - GitHub: [link not provided]
+   - Chrome: [link not provided]
+   - Firefox: [link not provided]
+   - Technologies used: JavaScript, Web Extensions API, DOM Manipulation, REST APIs
+
+This project is a fully client-side cross-browser extension that analyzes 10K+ submissions via Codeforces REST API, delivering WA%, median solve times, per-verdict drill-down, and topic/rating friction diagnostics.",2026-03-05 13:08:04.236569
+Projects of Pritam Mohanta,"Projects of Pritam Mohanta:
+
+1. Technical Mentor, Divide and Conquer Coders Club: 
+   - Mentored students in DSA and competitive programming
+   - Conducted weekly coding workshops and contest preparation sessions.
+
+2. Class Representative: 
+   - Served as primary liaison between faculty and 70+ students for academic coordination and student welfare initiatives.
+
+3. Solved 3000+ problems across 
+   - Codeforces
+   - CodeChef
+   - LeetCode
+   - SPOJ
+   - AtCoder.",2026-03-06 00:48:31.542594
