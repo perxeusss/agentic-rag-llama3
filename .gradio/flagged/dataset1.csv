@@ -1,0 +1,10 @@
+question,output,timestamp
+what projects does he have,"Pritam Mohanta has the following projects:
+
+1. CF Performance Mirror — Browser Extension
+   - GitHub: [link not provided]
+   - Chrome: [link not provided]
+   - Firefox: [link not provided]
+   - Technologies used: JavaScript, Web Extensions API, DOM Manipulation, REST APIs
+
+This project is a fully client-side cross-browser extension that analyzes 10K+ submissions via Codeforces REST API, delivering WA%, median solve times, per-verdict drill-down, and topic/rating friction diagnostics.",2026-03-05 13:08:04.236569
