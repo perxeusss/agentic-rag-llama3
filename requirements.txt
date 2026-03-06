@@ -1,0 +1,9 @@
+langchain
+langchain-groq
+sentence-transformers
+qdrant-client
+pypdf
+gradio
+python-dotenv
+transformers
+faiss-cpu  # optional

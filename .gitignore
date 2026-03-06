@@ -1,6 +1,6 @@
 PritamMohanta_Resume.pdf
 passbook.pdf
-.env
+# .env
 .venv/
 
 # Python
